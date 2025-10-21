@@ -7,11 +7,11 @@ Passionate about applying AI techniques to solve real-world problems and build i
 ---
 
 **Languages & Frameworks:**  
-Python · R · SQL · PyTorch · TensorFlow · Keras · scikit-learn · Fastai  
+Python · R · SQL ·
 
 **Tools & Libraries:**  
-Pandas · NumPy · OpenCV · Matplotlib · Seaborn · Plotly · Git ·   
-
+Pandas · NumPy · OpenCV · Matplotlib · Seaborn · Plotly · Git ·  PyTorch · TensorFlow · Keras · scikit-learn · Fastai  
+ 
 **AI Specializations:**  
 Deep Learning · Generative AI · Diffusion Models · Computer Vision · NLP · Graph Neural Networks · Anomaly Detection  
 
