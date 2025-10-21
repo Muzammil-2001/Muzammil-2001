@@ -1,16 +1,21 @@
-## Hi there 👋
+ ### **AI Bachelor’s Student · Johannes Kepler University Linz**
 
-<!--
-**Muzammil-2001/Muzammil-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI student with a strong foundation in **machine learning, deep learning, and data analysis**.  
+Experienced in **model development**, **data preprocessing**, and **algorithm optimization**.  
+Passionate about applying AI techniques to solve real-world problems and build intelligent, efficient systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks:**  
+Python · R · SQL · PyTorch · TensorFlow · Keras · scikit-learn · Fastai  
+
+**Tools & Libraries:**  
+Pandas · NumPy · OpenCV · Matplotlib · Seaborn · Plotly · Git ·   
+
+**AI Specializations:**  
+Deep Learning · Generative AI · Diffusion Models · Computer Vision · NLP · Graph Neural Networks · Anomaly Detection  
+
+---
+
+**Contact**  
+ muzml1524@gmail.com 
